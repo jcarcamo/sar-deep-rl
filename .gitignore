@@ -1,0 +1,6 @@
+__pycache__/
+log/model/*.h5
+log/param/*.json
+log/tf/events*
+log/viz/*.png
+log/*.csv

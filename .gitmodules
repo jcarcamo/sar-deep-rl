@@ -1,0 +1,3 @@
+[submodule "sar-airsim-env"]
+	path = sar-airsim-env
+	url = https://github.com/jcarcamo/sar-airsim-env.git
