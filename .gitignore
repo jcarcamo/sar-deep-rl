@@ -1,3 +1,4 @@
+env/
 __pycache__/
 log/model/*.h5
 log/param/*.json
